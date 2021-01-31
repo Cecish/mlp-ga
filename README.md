@@ -14,7 +14,7 @@ Once the program is running, follow the instructions displayed to choose some pa
 
 When running the program, you are given the choice to:
 1. Only evolve the weights of the artificial neural network,
-2. Only evolve the activation function,
+2. Only evolve the activation function (among a selection of activation function candidates: null, sigmoid, cosine, Gaussian and hyperbolic tangeant functions),
 3. Evolve the MLP weights, activation function and the number of neurons in each hidden layer.
 
 Regarding the genetic algorithm parameters, you will be prompted to provide:
